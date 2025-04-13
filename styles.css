@@ -1,0 +1,15 @@
+/* General Styles */
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4ebe8;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* (Include all the CSS from your original code) */
+/* Header, Navigation, Hero Section styles... */
+/* About, What I Do, Contact sections styles... */
+/* Footer and Responsive styles... */

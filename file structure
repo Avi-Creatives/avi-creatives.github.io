@@ -1,0 +1,5 @@
+Avi-Creatives.github.io/
+├── index.html          # Main HTML file
+├── styles.css          # CSS styles
+└── images/             # Folder for images
+    └── hero-bg.jpg     # Your hero background image
